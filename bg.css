@@ -1,0 +1,19 @@
+body {
+    /* Set the background image */
+    background-image: url('images/bg1forjobportal.jpg');
+    
+    /* Ensure the image covers the entire background */
+    background-size: cover;
+    
+    /* Position the image */
+    background-position: center;
+    
+    /* To avoid image repetition */
+    background-repeat: no-repeat;
+
+    /* Optional: Set a background color as fallback in case image fails to load */
+    background-color: #f0f0f0;
+
+    /* Fix the image in place while scrolling */
+    background-attachment: fixed;
+}

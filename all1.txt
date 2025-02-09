@@ -1,0 +1,112 @@
+<main>
+        <!-- Page-specific content goes here -->
+        <section class="hero">
+            <div class="hero-image"></div>
+            <div class="container">
+                <h1>Discover Your Career in Culture & Art</h1>
+                <p>Connect with unique opportunities in Indian arts, culture, and heritage</p>
+                <a href="jobs.html" class="btn-primary">Explore Opportunities</a>
+            </div>
+        </section>
+
+        <section class="featured-categories">
+            <div class="container">
+                <h2>Featured Categories</h2>
+                <div class="category-grid">
+                    <div class="category-card">
+                        <img src="images/200577-indian-culture-wallpaper-top-free-indian-culture-background.webp" alt="Traditional Music">
+                        <h3>Traditional Music</h3>
+                        <p>Explore careers in classical Indian music</p>
+                    </div>
+                    <!-- Add more category cards as needed -->
+                </div>
+            </div>
+        </section>
+
+        <section class="job-listings">
+            <div class="container">
+                <h2>Latest Job Openings</h2>
+                <div class="job-list">
+                    <div class="job-card">
+                        <h3>Classical Dancer</h3>
+                        <p>Join our prestigious dance company in Mumbai</p>
+                        <a href="#" class="btn-secondary">Apply Now</a>
+                    </div>
+                    <!-- Add more job cards as needed -->
+                </div>
+            </div>
+        </section>
+
+        <section class="testimonials">
+            <div class="container">
+                <h2>Success Stories</h2>
+                <div class="testimonial-slider">
+                    <div class="testimonial">
+                        <p>"GARV helped me find my dream job as a Kathak instructor."</p>
+                        - Priya Sharma
+                    </div>
+                    <!-- Add more testimonials as needed -->
+                </div>
+            </div>
+        </section>
+
+        <section class="team">
+            <div class="container">
+                <h2>Our Team</h2>
+                <div class="team-grid">
+                    <div class="team-member">
+                        <img src="images/y1UH6zu.webp" alt="Harish">
+                        <h3>Harish</h3>
+                        <p>Frontend Lead</p>
+                    </div>
+                    <div class="team-member">
+                        <img src="images/y1UH6zu.webp" alt="Gautam">
+                        <h3>Gautam</h3>
+                        <p>Backend Lead</p>
+                    </div>
+                    <div class="team-member">
+                        <img src="images/y1UH6zu.webp" alt="Vatsal">
+                        <h3>Vatsal</h3>
+                        <p>Backend Lead</p>
+                    </div>
+                    <div class="team-member">
+                        <img src="images/y1UH6zu.webp" alt="Aayusha">
+                        <h3>Aayusha</h3>
+                        <p>DBMS Lead</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <section class="testimonials">
+        <div class="container">
+            <h2>What Our Users Say</h2>
+            <div class="testimonial-carousel">
+                <div class="testimonial">
+                    <p>"GARV helped me find my dream job as a classical dancer in Mumbai!"</p>
+                    - Priya Sharma, Bharatanatyam Dancer
+                </div>
+                <div class="testimonial">
+                    <p>"I discovered amazing opportunities in modern art through GARV's platform."</p>
+                    - Rahul Verma, Contemporary Artist
+                </div>
+                <!-- Add more testimonials as needed -->
+            </div>
+        </div>
+    </section>
+    
+    <section class="newsletter-signup">
+        <div class="container">
+            <h2>Stay Updated</h2>
+            <p>Subscribe to our newsletter for job alerts and cultural news</p>
+            <form id="newsletter-form">
+                <input type="email" placeholder="Your email address" required>
+                <button type="submit" class="btn-primary">Subscribe</button>
+            </form>
+        </div>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+    </main>
